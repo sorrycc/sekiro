@@ -1,0 +1,15 @@
+{
+  "name": "sekiro",
+  "version": "1.0.0",
+  "description": "A framework based on umi.",
+  "bin": {
+    "sekiro": "cli.js"
+  },
+  "keywords": ["umi"],
+  "author": "sorrycc@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "umi": "^2.6.10",
+    "umi-plugin-react": "^1.7.2"
+  }
+}
