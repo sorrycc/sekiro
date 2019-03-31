@@ -1,10 +1,11 @@
 {
   "name": "sekiro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A framework based on umi.",
   "bin": {
     "sekiro": "cli.js"
   },
+  "repository": "sorrycc/sekiro",
   "keywords": ["umi"],
   "author": "sorrycc@gmail.com",
   "license": "MIT",
